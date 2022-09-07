@@ -1,7 +1,7 @@
 👋 Hi, I’m **Mahadi Hasan**
-- 👀 I’m interested in **Mobile Development**
-- 🌱 I’m currently practicing **Android Development**
-- 💞️ I’m looking to collaborate on **Android developer**
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently practicing **React and Typescript**
+- 💞️ I’m looking to collaborate on **Web developer**
 - 📫 How to reach me **``me.mahadi@outlook.com``**
 
 <!---
